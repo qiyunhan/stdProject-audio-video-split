@@ -1,0 +1,8 @@
+trumpet.npy->0
+saxophone.npy---->1
+cello.npy---->2
+xylophone.npy---->3
+flute.npy---->4
+violin.npy---->5
+accordion.npy---->6
+acoustic_guitar.npy---->7
